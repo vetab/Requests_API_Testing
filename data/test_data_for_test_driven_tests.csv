@@ -1,0 +1,4 @@
+country_code,zip_code,expected_place_name
+ch,1000,Lausanne 26
+de,01067,Dresden
+es,28001,Madrid
